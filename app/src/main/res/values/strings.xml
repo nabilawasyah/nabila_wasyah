@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">project_aplikasi_ndp</string>
+    <string name="metode_pembayaran">Metode Pembayaran</string>
+    <string name="string_metode_pembayaran" />
 </resources>

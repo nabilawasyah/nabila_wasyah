@@ -11,14 +11,15 @@
         android:layout_height="56dp"
         android:backgroundTint="@color/black"
         android:backgroundTintMode="src_in"
-        android:text="Metode Pembayaran"
+        android:text="METODE PEMBAYARAN"
         android:textAlignment="viewStart"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.491"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.528" />
+        app:layout_constraintVertical_bias="0.528"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <Button
         android:id="@+id/button4"
